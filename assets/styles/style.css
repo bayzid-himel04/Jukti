@@ -191,7 +191,7 @@ hr{
 /* for pc/tab */
 
 @media only screen and (min-width:440px){
-    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+   
 
     h1{font-size:30px}
     h2{font-size:26px}
