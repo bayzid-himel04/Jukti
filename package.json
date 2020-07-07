@@ -1,0 +1,23 @@
+{
+  "name": "hw--digital-cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayzid-himel04/Jukti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayzid-himel04/Jukti/issues"
+  },
+  "homepage": "https://github.com/bayzid-himel04/Jukti#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "normalize": "^0.3.1"
+  }
+}
