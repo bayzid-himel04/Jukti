@@ -4,19 +4,19 @@
   color: gray;
 }
 
-.bg-color--white {
+.bg--white {
   background-color: white;
 }
-.bg-color--green {
+.bg--green {
   background-color: green;
 }
-.bg-color--gray {
+.bg--gray {
   background-color: gray;
 }
-.bg-color--btn_green {
+.bg--btn_green {
   background-color: green;
 }
-.bg-color--btn_gray {
+.bg--btn_gray {
   background-color: gray;
 }
 
