@@ -7,18 +7,6 @@
 .bg--white {
   background-color: white;
 }
-.bg--green {
-  background-color: green;
-}
-.bg--gray {
-  background-color: gray;
-}
-.bg--btn_green {
-  background-color: green;
-}
-.bg--btn_gray {
-  background-color: gray;
-}
 
 .font-style--roboto, h1, h2, h3, h4, h5, h6, a {
   font-family: "Roboto Slab", serif;
@@ -27,18 +15,6 @@
   font-family: "Lato", sans-serif;
 }
 
-.fz--lg {
-  font-size: 20px;
-}
-.fz--md {
-  font-size: 18px;
-}
-.fz--sm {
-  font-size: 12px;
-}
-.fz--xsm {
-  font-size: 10px;
-}
 
 .button {
   padding: 0.4em 0.6em;
