@@ -1,0 +1,22 @@
+.bor {
+    &-radius {
+        border-radius: 5px;
+    }
+}
+.width {
+    &-80 {
+        width: 80%;
+    }
+    &-60 {
+        width: 60%;
+    }
+    &-70 {
+        width: 70%;
+    }
+}
+
+.m {
+    &-auto {
+        margin: 0 auto;
+    }
+}

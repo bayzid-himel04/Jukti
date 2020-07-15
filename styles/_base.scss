@@ -1,0 +1,59 @@
+body {
+    background: linear-gradient(to right, #ACB6E5, #74ebd5); 
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    color: $primary;
+    line-height: 1.5;
+}
+.container {
+    width: 100%;
+    
+    margin: 20px auto;
+    @media only screen and (min-width: 768px) {
+        width: 90%;
+    }
+}
+
+.sec {
+  
+    margin: $space-xl $space $space-sm;
+    background-color: $whitesmoke;
+    @extend .bor-radius;
+    padding: $space-xl;
+    border-bottom: 5px solid $green;
+    @media only screen and (min-width: 768px) {
+     display:flex;
+     justify-content: space-around;
+     padding-right:10%;
+            
+    }
+}
+.col {
+  
+    &-half-left-small {
+        @media only screen and (min-width: 768px) {
+           width:45%;
+           padding-right: 2em;
+            border-right: 3px dashed $green;
+        }
+    }
+     
+   
+    &-half {
+        @media only screen and (min-width: 768px) {
+            width:auto;
+            padding-left: 2em;
+            
+        }
+    }
+}
+
+
+
+* a {
+    text-decoration: none;
+    color: $green;
+    &:hover {
+        color: $black;
+    }
+}
